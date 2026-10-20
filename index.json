@@ -1,0 +1,11 @@
+{
+  "org": "coleifer",
+  "repo": "django-generic-m2m",
+  "versions": [
+    {
+      "commit": "cb67e1cf7700421761e9c144653ff233300ec611",
+      "tag": "",
+      "parsed_at": "2026-10-20T20:45:22.130416+00:00"
+    }
+  ]
+}
